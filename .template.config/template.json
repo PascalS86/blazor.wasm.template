@@ -1,0 +1,8 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "PaSe",
+    "classifications": [ "WebAssembly", "blazor", "blazorwasm", "c#" ],
+    "identity": "csandra.blazor.wasm.template",
+    "name": "Csandra Blazor WASM Application",
+    "shortName": "csandrablazorwasm"
+  }
