@@ -4,5 +4,9 @@
     "classifications": [ "WebAssembly", "blazor", "blazorwasm", "c#" ],
     "identity": "csandra.blazor.wasm.template",
     "name": "Csandra Blazor WASM Application",
-    "shortName": "csandrablazorwasm"
+    "shortName": "csandrablazorwasm",
+    "tags": {
+      "language": "C#"
+    },
+    "sourceName": "blazor.wasm.template"
   }

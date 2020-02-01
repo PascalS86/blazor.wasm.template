@@ -12,6 +12,10 @@
     <RazorLangVersion>3.0</RazorLangVersion>
     <VersionPrefix>$([System.DateTime]::UtcNow.ToString("yyyy.MM.dd"))</VersionPrefix>
     <IsPackable>true</IsPackable>
+    
+    <IncludeContentInPack>true</IncludeContentInPack>
+    <IncludeBuildOutput>false</IncludeBuildOutput>
+    <ContentTargetFolders>content</ContentTargetFolders>
  </PropertyGroup>
 
   <ItemGroup>
